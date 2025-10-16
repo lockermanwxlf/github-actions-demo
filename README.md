@@ -1,3 +1,3 @@
 # github-actions-demo
 
-[Python CI](https://github.com/lockermanwxlf/github-actions-demo/actions/workflows/python-test.yaml/badge.svg)
+![Python CI](https://github.com/lockermanwxlf/github-actions-demo/actions/workflows/python-test.yaml/badge.svg)
